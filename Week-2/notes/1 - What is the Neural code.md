@@ -102,6 +102,11 @@ In higher cortical areas, however, it can be quite difficult to understand exact
 ![](http://geekresearchlab.net/coursera/neuro/tuning-curves-2.jpg) <br> <br>
 ![](http://geekresearchlab.net/coursera/neuro/neural-2.jpg) <br> 
 ```
+
+```
+![image](https://user-images.githubusercontent.com/77488107/119618186-39a0c300-be20-11eb-987d-54be294e7e39.png) <br> <br>
+
 How reponse models will be constructed?
 This will be continued in the next chapter...
 ```
+
