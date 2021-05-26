@@ -52,6 +52,9 @@ Retina:- <br><br>
 ![](http://geekresearchlab.net/coursera/neuro/retina-1.jpg)<br><br>
 ![](http://geekresearchlab.net/coursera/neuro/retina-2.jpg)<br>
 ```
+top - rods and cones
+side - actual wiring till it reaches retinal ganglion cells -> brain
+
 Question:
 In a raster plot such as the one just shown, 
 in which a short experiment is repeated many times, 
